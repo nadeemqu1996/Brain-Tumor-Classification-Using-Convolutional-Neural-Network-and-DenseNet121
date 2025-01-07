@@ -1,5 +1,5 @@
 **Brain Tumor Classification Using Convolutional Neural Network and
-DenseNet121**__
+DenseNet121**
 
 Brain tumors pose a significant healthcare
 challenge, affecting individuals across age
