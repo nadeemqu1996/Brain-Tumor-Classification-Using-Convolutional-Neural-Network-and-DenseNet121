@@ -22,7 +22,8 @@ intelligence, our system alleviates the cognitive load on healthcare practitione
 based on MRI scans, thus enhancing the
 timeliness and precision of treatment decisions.
 
-Approach 1 Results
+**Approach 1 Results
+**
 Both metrics are plotted over a number of epochs
 on the x-axis. The training accuracy appears relatively stable and consistently higher than the validation accuracy, which is typical as a model tends
 to perform better on data it has seen (trained on)
@@ -41,7 +42,8 @@ potentially overfitting to the training data. The
 most significant spike in validation loss suggests an epoch where the model performed particularly
 poorly on the validation data. 
 
-Approach 2 Results
+**Approach 2 Results
+**
 DenseNet121 outperforms traditional CNNs in
 image classification and object detection, as evident
 from Figure 9’s confusion matrix. Our Approach2, using DenseNet121, excels over conventional
@@ -51,4 +53,5 @@ DenseNet121’s robustness and efficiency for complex image tasks. This highligh
 of advanced deep learning architectures, positioning DenseNet121 as an ideal choice for intricate
 image challenges.
 
-Addendum: Detailed observations and relevant illustrations are available in the report.pdf file
+**Addendum: Detailed observations and relevant illustrations are available in the report.pdf file
+**
